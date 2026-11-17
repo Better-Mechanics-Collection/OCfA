@@ -1,3 +1,8 @@
+marine_commando
+ranger_battalion
+paratrooper
+light_armor
+medium_armor
 OCfA_battalion_limit_bonus
 OCfA_battalion_limit_factory_bonus
 OCfA_battalion_limit_pop_bonus
